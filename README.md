@@ -14,3 +14,7 @@ Similarly, to run the editor:
 $ love editor
 ```
 
+---
+#im so good at markdown
+---
+!(http://images6.fanpop.com/image/photos/39800000/Badass-Cute-Anime-Gurl-anime_lover0_0-39801634-500-500.jpg)
